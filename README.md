@@ -26,6 +26,7 @@
 <img align = "left" width = "30px" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png">
 
 <br/>
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=FangJim&show_icons=true&theme=radical">
 
