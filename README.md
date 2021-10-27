@@ -27,8 +27,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=FangJim&show_icons=true&theme=tokyonight
-">
+<img src="https://github-readme-stats.vercel.app/api?username=FangJim&show_icons=true&theme=radical">
 
 [instagram]: https://www.instagram.com/jmjmjim/
-[facebook]: https://www.facebook.com/profile.php?id=100002610977006 
+[facebook]: https://www.facebook.com/profile.php?id=100002610977006
