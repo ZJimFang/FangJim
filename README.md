@@ -11,9 +11,9 @@
 
 ### My social media:
 
-[<img align = "left" width = "22px" src="https://img.icons8.com/ios/50/000000/instagram-new.png"/>][instagram]
+[<img align = "left" width = "22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png"/>][instagram]
 
-[<img  align = "left" width = "22px" src="https://img.icons8.com/ios-filled/50/000000/facebook-new.png"/>][facebook]
+[<img  align = "left" width = "22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/768px-Facebook_icon_2013.svg.png"/>][facebook]
 
 <br/>
 
