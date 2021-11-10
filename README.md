@@ -26,8 +26,15 @@
 <img align = "left" width = "30px" src = "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png">
 <img align = "left" width = "30px" src = "https://i.stack.imgur.com/C9301.png">
 <img align = "left" width = "30px" src = "https://cdn.iconscout.com/icon/free/png-256/npm-3-1175132.png">
-<img align = "left" width = "30px" src = "https://magiclen.org/wp-content/uploads/2019/06/webpack.png">
 <img align = "left" width = "27px" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png">
+
+<br/>
+
+### Learning:
+
+<img align = "left" width = "21px" src = "https://s0.60logo.com/uploads/items/images/soft/171209/nodejs-icon.svg">
+<img align = "left" width = "32px" src = "https://res.cloudinary.com/practicaldev/image/fetch/s--Rr7K5gOm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dbalas.gallerycdn.vsassets.io/extensions/dbalas/vscode-html2pug/0.0.2/1532242577062/Microsoft.VisualStudio.Services.Icons.Default">
+<img align = "left" width = "30px" src = "https://magiclen.org/wp-content/uploads/2019/06/webpack.png">
 
 <br/>
 <br/>
