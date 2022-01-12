@@ -32,8 +32,8 @@
 
 ### Learning:
 
+<img align = "left" width = "32px" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/800px-React-icon.svg.png">
 <img align = "left" width = "21px" src = "https://s0.60logo.com/uploads/items/images/soft/171209/nodejs-icon.svg">
-<img align = "left" width = "32px" src = "https://res.cloudinary.com/practicaldev/image/fetch/s--Rr7K5gOm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dbalas.gallerycdn.vsassets.io/extensions/dbalas/vscode-html2pug/0.0.2/1532242577062/Microsoft.VisualStudio.Services.Icons.Default">
 <img align = "left" width = "30px" src = "https://magiclen.org/wp-content/uploads/2019/06/webpack.png">
 
 <br/>
