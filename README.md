@@ -1,6 +1,6 @@
 # Hello World, I'm Jim
 
-## Profile: https://jimfang.netlify.app/
+### Profile: https://jimfang.netlify.app/
 
 -   🏫 I'm studying in YZU university.
 -   📚 Continue to expand my learning map.
