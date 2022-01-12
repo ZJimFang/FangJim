@@ -5,7 +5,7 @@
 -   🏫 I'm studying in YZU university.
 -   📚 Continue to expand my learning map.
 -   📈 Goals
-    -   Short-term goal : Learn the data structure and complete my data structure website.
+    -   Short-term goal : Learn React.
     -   Medium-term goal : Admitted to the ideal graduate School.
     -   Long-term goal : Become a front-end engineer.
 
